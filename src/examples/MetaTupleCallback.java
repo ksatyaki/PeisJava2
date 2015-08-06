@@ -25,9 +25,9 @@
 
 package examples;
 
-import core.CallbackObject;
-import core.PeisJavaMT;
-import core.PeisTuple;
+import srnp.CallbackObject;
+import srnp.PeisJavaMT;
+import srnp.PeisTuple;
 
 public class MetaTupleCallback {
 

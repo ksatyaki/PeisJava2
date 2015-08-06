@@ -22,10 +22,10 @@
 
 package examples;
 
-import com.sun.jna.Pointer;
+import srnp.PeisTuple;
+import srnp.PeisJavaInterface.PeisTupleCallback;
 
-import core.PeisTuple;
-import core.PeisJavaInterface.PeisTupleCallback;
+import com.sun.jna.Pointer;
 
 public class MyCallbackObject implements PeisTupleCallback {
 
