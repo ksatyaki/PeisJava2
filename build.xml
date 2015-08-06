@@ -1,4 +1,4 @@
-<project name="PeisJava" default="all">
+<project name="PeisJava2" default="all">
 
   <!-- Define paths -->
   <property name="main.class" value="examples.GettingStartedExample"/>
